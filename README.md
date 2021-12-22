@@ -1,7 +1,7 @@
 <h1 align="center">Hey! string.split's here</h1>
 <h2 align="center">💻 I like code 💻</h2>
 <h3 align="center">Languages I use:</h3>
-<h4 align="center"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code><code><img height="40" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></code><code><img height="40" src="https://practity.com/wp-content/uploads/2019/03/c_1000px-600x600.png"></code></h4><h1 align="center"><code><img src = "https://discord.c99.nl/widget/theme-1/342703797786640386.png"></code></h1>
+<h4 align="center"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code><code><img height="40" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></code><code><img height="40" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4"></code></h4><h1 align="center"><code><img src = "https://discord.c99.nl/widget/theme-1/342703797786640386.png"></code></h1>
 
 ```
                             ..      ...            ...                ...     ..      
